@@ -1,3 +1,3 @@
-<body bgcolo = 'acqa'
+<body bgcolor = 'acqa'>
 Anuddeeph world
 </body>
